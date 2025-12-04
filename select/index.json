@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "人生リセットボタン feat.GUMI",
+  "base_artist": "kemu",
+  "createdAt": "2025-12-04T18:09:05.666418Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "人生リセットボタン",
+      "artist": "KEMU",
+      "has_synced": true,
+      "path": "select/01_人生リセットボタン_KEMU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "人生リセットボタン",
+      "artist": "Kemu",
+      "has_synced": false,
+      "path": "select/02_人生リセットボタン_Kemu.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "人生リセットボタン",
+      "artist": "kemu feat. GUMI",
+      "has_synced": true,
+      "path": "select/03_人生リセットボタン_kemu_feat._GUMI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "人生リセットボタン",
+      "artist": "kemu",
+      "has_synced": false,
+      "path": "select/pl_01_人生リセットボタン_kemu.txt"
+    }
+  ]
+}
